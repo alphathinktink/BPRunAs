@@ -1,4 +1,3 @@
-// See LICENSE file for usage restrictions.
 #ifndef IDC_STATIC
 #define IDC_STATIC (-1)
 #endif
