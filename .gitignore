@@ -1,0 +1,15 @@
+*.o
+*.obj
+*.dll
+*.pdb
+*.ilk
+*.log
+*.tmp
+*.bak
+*.suo
+*.user
+*.ncb
+*.idb
+*.class
+*.pch
+*.res
